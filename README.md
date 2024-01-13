@@ -10,6 +10,6 @@ Patch.Init and its PatchSM are cool but we may need more gate and CV outputs.  E
 
 This code example isn't a finished application but is a simple proof of concept, which emulates the Instruo/Divkid Ochd octal LFO.  The code runs an infinite loop clocking 8x counters at different increments to generate sine waves at different frequencies.  The sine wave are outputted at eurorack modular voltage levels through the FHX-8CV.
 
-This is not an official project of Electrosmith or of Expert Sleepers.
+This is not an official project of Electrosmith or of Expert Sleepers.  But there is a bit of info on the Daisy Forums at https://forum.electro-smith.com/t/using-expert-sleepers-fhx-expanders-with-patch-init/4590
 
 Detailed description of the SPI protocol that's used to interface patch.Init() and FHX-8CV is here: https://modwg.co.uk/wp-content/uploads/2023/12/PatchSM-and-FHX-8CV-SPI-info-1v2.pdf
