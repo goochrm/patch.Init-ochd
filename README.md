@@ -12,4 +12,4 @@ This code example isn't a finished application but is a simple proof of concept,
 
 This is not an official project of Electrosmith or of Expert Sleepers.
 
-Detailed description of the SPI protocol that's used to interface patch.Innit() and FHX-8CV is here: https://modwg.co.uk/wp-content/uploads/2023/12/PatchSM-and-FHX-8CV-SPI-info-1v2.pdf
+Detailed description of the SPI protocol that's used to interface patch.Init() and FHX-8CV is here: https://modwg.co.uk/wp-content/uploads/2023/12/PatchSM-and-FHX-8CV-SPI-info-1v2.pdf
